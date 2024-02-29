@@ -1,0 +1,9 @@
+{
+  "domain": "particle",
+  "name": "Particle",
+  "version": "1.0",
+  "documentation": "https://github.com/sryburn/ha-particle",
+  "dependencies": [],
+  "codeowners": ["@sryburn"],
+  "requirements": ["aiohttp"]
+}
