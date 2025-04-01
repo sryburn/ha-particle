@@ -1,9 +1,11 @@
 {
   "domain": "particle",
   "name": "Particle",
-  "version": "1.0",
+  "version": "1.1.0",
   "documentation": "https://github.com/sryburn/ha-particle",
   "dependencies": [],
   "codeowners": ["@sryburn"],
-  "requirements": ["aiohttp"]
+  "requirements": ["aiohttp>=3.8.0"],
+  "iot_class": "cloud_push",
+  "integration_type": "integration"
 }

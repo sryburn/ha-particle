@@ -1,0 +1,6 @@
+# Services for Particle integration
+# Services are dynamically registered based on discovered Particle device functions
+
+# No pre-defined services to document
+# Each service follows the format particle.{device_id}_{function_name}
+# and accepts an optional 'argument' parameter
